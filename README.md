@@ -21,6 +21,66 @@ Sunil Chandra Joshi
 Nainital, Uttarakhand  
 [GitHub](https://github.com/Suniljoshi-2003) | [LinkedIn](https://linkedin.com/in/suniljoshi2003)
 
+---
+
+# 📝 Blinkit Project
+
+# 🛒 Blinkit Grocery Sales Data Analysis
+
+This project performs detailed data analysis on Blinkit grocery sales data using Python, Pandas, Matplotlib, and Seaborn. The goal is to derive insights related to item sales, outlet behavior, and product categories.
+
+## 📊 Dataset Info
+
+- Rows: 8,523
+- Columns: 12
+- Format: `.xlsx` (Excel file)
+- Key columns:
+  - Item Fat Content
+  - Item Type
+  - Sales
+  - Outlet Location Type
+  - Rating
+
+## 🎯 Objectives / KPIs
+
+- Total Sales
+- Average Sales
+- Total Items Sold
+- Average Rating
+- Top-performing Item Types
+- Sales by Fat Content and Outlet Type
+
+## 🛠️ Technologies Used
+
+- Python 
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook / VS Code
+
+## 📈 Visualizations
+
+- Sales by Fat Content (Pie Chart)
+- Sales by Item Type (Bar Chart)
+- Fat Content by Outlet Tier (Grouped Bar)
+- Sales by Establishment Year (Line Chart)
+- Sales by Outlet Size (Pie Chart)
+- Sales by Outlet Location Type (Bar Chart)
+
+## 👨‍💻 Author
+
+- **Sunil Chandra Joshi**
+- 📍 Nainital, Uttarakhand
+- 💼 Annotation Analyst at Telus Digital
+- 🔗 [GitHub](https://github.com/Suniljoshi-2003)
+- 🔗 [LinkedIn](https://linkedin.com/in/suniljoshi2003)
+
+## 📌 Conclusion
+
+This project helped visualize and understand key sales drivers for Blinkit grocery items, such as fat content, outlet type, and item category. These insights can assist in better inventory and marketing decisions.
+
+---
 
 
 # Python-Projects
