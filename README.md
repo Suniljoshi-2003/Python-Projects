@@ -1,3 +1,28 @@
+# 🏧 ATM Console Application (Python Project)
+
+This is a simple command-line **ATM simulation project** written in Python. It simulates basic ATM functionalities like checking balance, withdrawing, depositing money, and secure PIN verification.
+
+---
+
+## 🔹 Features
+
+- ✅ Simulates card insertion with delay
+- 🔐 PIN authentication
+- 💰 Check account balance
+- 💸 Withdraw money with balance validation
+- 💵 Deposit money
+- 🚪 Exit functionality
+- ⚠️ Input validation and error handling
+- ➕ Bonus: Odd/Even number checker function (optional demo function)
+
+---
+## 👨‍💻 Author
+Sunil Chandra Joshi  
+Nainital, Uttarakhand  
+[GitHub](https://github.com/Suniljoshi-2003) | [LinkedIn](https://linkedin.com/in/suniljoshi2003)
+
+
+
 # Python-Projects
 
 **Diwali Sales Analysis**
