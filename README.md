@@ -185,6 +185,18 @@ This project highlights the power of Python and data analysis in driving busines
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## 🧑‍💻 Author
+
+**Sunil Chandra Joshi**  
+Annotation Analyst at Telus Digital | Aspiring Data Analyst  
+[LinkedIn](https://www.linkedin.com/in/suniljoshi2003) | [GitHub](https://github.com/Suniljoshi-2003)
+
+---
+
+⭐️ *If you liked this project, feel free to give it a star on GitHub!*
+--- 
 
 
