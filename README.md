@@ -185,9 +185,6 @@ This project highlights the power of Python and data analysis in driving busines
 
 ---
 
-
----
-
 ## 🧑‍💻 Author
 
 **Sunil Chandra Joshi**  
