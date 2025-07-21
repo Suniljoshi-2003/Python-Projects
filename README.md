@@ -85,7 +85,6 @@ This project performs detailed data analysis on Blinkit grocery sales data using
 
 This project helped visualize and understand key sales drivers for Blinkit grocery items, such as fat content, outlet type, and item category. These insights can assist in better inventory and marketing decisions.
 
----
 
 
 # Python-Projects
